@@ -1,0 +1,12 @@
+﻿body {
+    padding: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+label {
+    color: darkgreen;
+    display:  inline-block;
+    background-blend-mode:darken;
+}
+.intro {
+    padding-inline: auto;
+}
